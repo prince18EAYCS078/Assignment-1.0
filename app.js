@@ -7,21 +7,21 @@ var __spreadArrays = (this && this.__spreadArrays) || function () {
 };
 var data = [
     {
-        firstName: "Sunny",
+        firstName: "prince",
         middleName: "NA",
-        lastName: "Tyagi",
-        email: "sunny.tyagi@sourcefuse.com",
-        phone: "6396786017",
+        lastName: "suman",
+        email: "prince.suman@sourcefuse.com",
+        phone: "6203571750",
         role: 1,
-        address: "Ghaziabad",
+        address: "Bihar",
         id: 1
     },
     {
-        firstName: "Deepak",
+        firstName: "Sourav",
         middleName: "NA",
-        lastName: "Kumar",
-        email: "deepak.kumar@sourcefuse.com",
-        phone: "8559010326",
+        lastName: "Bhargava",
+        email: "Sourav.Bhargava@sourcefuse.com",
+        phone: "8699900787",
         role: 2,
         address: "Mohali",
         id: 2
@@ -51,7 +51,7 @@ var role;
 (function (role) {
     role[role["HR Recruiter"] = 0] = "HR Recruiter";
     role[role["Web-Apps Trainee"] = 1] = "Web-Apps Trainee";
-    role[role["Snr. Tech. Head"] = 2] = "Snr. Tech. Head";
+    role[role["TechArch - (Web Apps)"] = 2] = "TechArch - (Web Apps)";
     role[role["Principal Architect"] = 3] = "Principal Architect";
 })(role || (role = {}));
 var userDataTable = /** @class */ (function () {
